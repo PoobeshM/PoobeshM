@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <b>270+ Problems Solved • Data Structures & Algorithms Enthusiast</b>
+  <b>280+ Problems Solved • Data Structures & Algorithms Enthusiast</b>
 </p>
 
 ---
